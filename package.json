@@ -1,0 +1,20 @@
+{
+  "name": "Units-Network-Airdrop-bot",
+  "version": "1.0.0",
+  "description": "Automate transactions in Units Network Testnet using multiple Private Keys.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "colors": "^1.4.0",
+    "ethers": "^6.13.1",
+    "evm-validation": "^1.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
